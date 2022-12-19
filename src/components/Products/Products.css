@@ -1,0 +1,18 @@
+
+.items {
+    display: flex;
+}
+
+.red {
+    color: red;
+} 
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.textContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
